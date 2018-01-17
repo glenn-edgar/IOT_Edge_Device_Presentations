@@ -1,0 +1,4 @@
+git remote add origin1  https://github.com/glenn-edgar/IOT_Edge_Device_Presentations
+git remote -v
+git push origin1 master
+
